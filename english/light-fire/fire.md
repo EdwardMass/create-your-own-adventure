@@ -38,5 +38,8 @@ But then you notice a rat entering that opening too.
 [Extinguish fire.](extinguish-fire/extinguish-fire.md)
 
 [Drink some coffee.](../coffee/coffee.md)
+
+[Throw it away, it has no sugar](no-sugar/no-sugar.md)
+
 [Sleep]
 
